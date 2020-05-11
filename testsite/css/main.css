@@ -1,0 +1,72 @@
+body{
+margin: 0;
+padding: 0;
+}
+
+header{
+margin: 0;
+padding: 0;
+height: 600px;
+background-color:rgb(211,211,211);
+}
+
+.photo img{
+width:280px;
+height: 340px;
+margin-left: 40px;
+margin-top: 120px;
+float:left;
+display: inline;
+}
+
+.zagolovok{
+float: right;
+color: red;
+margin-right: 680px;
+text-decoration: underline;
+font-size: 20px;
+display: inline;
+}
+
+.spisok{ 
+float: left;
+display: inline;
+}
+
+
+
+.in{
+display: inline;
+color: red;
+text-decoration: underline;
+}
+
+ul li{
+margin-top: 10px;
+font-size: 23px;
+}
+
+section{
+height: 2000px;
+background-color: rgb(215, 222, 219)
+}
+
+.osnowa{
+font-size:30px;
+margin-top: 30px;
+margin-left: 20px;
+}
+
+video{
+margin:auto;
+width: 800px;
+height: 400px;
+}
+footer{
+background-color: rgb(222, 219, 215);
+height: 300px;
+
+}
+a{
+text-align: center;
+}
